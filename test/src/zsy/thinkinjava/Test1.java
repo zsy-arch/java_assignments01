@@ -8,6 +8,7 @@ public class Test1 {
         MovieGenerator movieGenerator =
                 new MovieGenerator("Harry Porter", "Star Wars", "Snow White");
         String[] a = new String[100];
+
         for (int i = 0; i < 100; i++) {
             a[i] = movieGenerator.next();
         }
