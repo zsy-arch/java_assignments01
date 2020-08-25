@@ -1,3 +1,5 @@
+package zsy.thinkinjava;
+
 import java.util.*;
 
 // See in chapter 11.
