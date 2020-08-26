@@ -19,7 +19,6 @@ public class Test5 {
                     }
                 }
             }
-
             if (codeArr[i] == '-') {
                 if (!myStack.empty()) {
                     System.out.println(myStack.pop());
